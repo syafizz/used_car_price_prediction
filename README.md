@@ -75,8 +75,10 @@ Improve customer satisfaction through faster and more accurate loan decisions
 Future Steps: Explore opportunities to expand model capabilities by incorporating real-time market data or alternative data sources for further accuracy improvement.
 LinkedIn:
 
-Muhammad Najmi Saniy Bin Mohd Nazul: [invalid URL removed]
-Shafiuddin Yusof: [invalid URL removed]
+Muhammad Najmi Saniy Bin Mohd Nazul: [https://www.linkedin.com/in/
+muhammad-najmi-saniy-binmohd-nazul-b05b65254/]
+Shafiuddin Yusof: [https://www.linkedin.com
+/in/shafiuddin-yusof/]
 We welcome your feedback and suggestions!
 
 
